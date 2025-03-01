@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d777d270cee3a5c419cb21a828556f1a, type: 3}
+  m_Name: CodeMonkeyFreeSO
+  m_EditorClassIdentifier: 
+  currentVersion: 1.00
+  subtype: tictactoengofree
+  lastShownTimestamp: 1740806267
+  lastUpdateResponse:
+    version: 1.00
+    versionUrl: https://unitycodemonkey.com
+  checkedLastUpdateTimestamp: 1740806267
+  lastQOTDResponse:
+    questionId: 155
+    questionText: What Types can you natively store with PlayerPrefs?
+    answerA: Anything
+    answerB: string, int, float, bool
+    answerC: string, int, float
+    answerD: 
+    answerE: 
+  lastQotdTimestamp: 1740806267
+  lastDynamicHeaderResponse:
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/unityBundleFeb25.png
+    topText: Unity 95% OFF on 3 BUNDLES! If just one asset looks interesting then
+      the whole bundle is worth it!
+    topLink: unityassetstore
+    bottomText: My 10+ Years of C# Knowledge in 1 Course!
+    bottomLink: csharpcourse
+  lastDynamicHeaderTimestamp: 1740806267
+  websiteLatestMessage:
+    text: <a href="https://cmonkey.co/tictactoenfefree">I just published my latest
+      FREE course! Click here!</a>
+  websiteLatestMessageTimestamp: 1740806267
+  websiteLatestVideos:
+    videos:
+    - youTubeId: 0GpHxF-KXus
+      title: Multiplayer Game Development just got 100X FASTER!
+    - youTubeId: 4jt6YYTlVd0
+      title: Make AWESOME Games 70% OFF!
+    - youTubeId: _JjfaAF6Xeg
+      title: I got a MYSTERY Package in the mail!
+    - youTubeId: _PIRFWc50qs
+      title: TOP 10 NEW Systems and Tools FEBRUARY 2025! | Unity Asset Store
+  websiteLatestVideosTimestamp: 1740806267
